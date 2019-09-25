@@ -1,0 +1,59 @@
+    /*
+    To change this license header, choose License Headers in Project Properties.
+    To change this template file, choose Tools | Templates
+    and open the template in the editor.
+    */
+    /* 
+        Created on : 11 Nov, 2016, 5:53:01 PM
+        Author     : NexGen
+    */
+
+    div.offer_cust button.customGetBtn
+    {width: auto;height: auto;/* margin: 0 auto; */float: right;/* display: block; */}
+    div.offer_cust a.customGetBtn
+    {width: auto;height: auto;/* margin: 0 auto; */float: right;/* display: block; */}
+
+    div.offer_cust h2.title
+    {
+        width: 100%;
+        background: #ffffff;
+        color: gray;
+    }
+
+    div.offer_cust h3.title_cust
+    {
+
+    }
+    
+    div.offer_cust h2.title_cust a
+    {
+        color: black;
+    }
+    div.offer_cust 
+    {
+        height: auto;
+        float: left;
+        background: white;
+        padding: 3px;
+    }
+
+    div.offer_cust img
+    {
+        width: 100px;
+        height: 100px;
+        float: left;
+        border: 0;
+        object-fit: contain;
+    }
+    div.offer_cust div.postData{
+        float: left;
+        width: 68%;
+    }
+    span.custom_option
+    {
+        width: 100%;
+        float: left;
+        font-size: 13px;
+        font-weight: normal;
+        margin: 1px auto;
+    }

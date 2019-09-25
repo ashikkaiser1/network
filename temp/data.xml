@@ -1,0 +1,1114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset apifunc='getcampaigns'>
+    <data>
+        <campaignid><![CDATA[395]]></campaignid>
+        <name><![CDATA[1ink.com Coupon]]></name>
+        <description><![CDATA[<b><font size="2" face="Arial">This well-branded, high-paying ink offer has the largest printer ink inventory online! Large inventory means high conversions! Comes with a 180 day, 100% satisfaction guaranteed!</font></b>
+<p><font size="2" face="Arial"><b>Traffic Allowed: </b> Email, display, social, search (w/restrictions) and contextual<b><br>
+Traffic NOT Allowed: </b>Incentive<b><br>
+Conversion:</b> Pays on sale<b><br>
+Actions: </b> CPA<br>
+Country Allowed:</b>North America</font></p>]]>
+        </description>
+        <payout><![CDATA[$22.50]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[22]]></bannercount>
+        <emailcount><![CDATA[3]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: North America]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2947]]></campaignid>
+        <name><![CDATA[1TAC - Flashlights]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Introducing the only Tactical Flashlight that's been to space and back.<br>
+<br>
+Traffic Allowed: Email, Push Notifications, Display, Contextual, Social, Newsletter, Mobile, 
+Native, Video, Blog.<br>
+Traffic NOT Allowed: Incentivized<br>
+Conversion: CC Submit<br>
+Actions: CPS<br>
+Filters : No<br>
+Country Allowed: USA</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$68.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[6]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2177]]></campaignid>
+        <name><![CDATA[ADT Gift Card Promo - Sensitive I/O Required]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>ADT Monitored Security System for $0 plus $100 Free Visa Gift Card</p>
+<p>Traffic Allowed: Email, display, Paid Search and FB, Push Notifications<br>
+Traffic NOT Allowed: Incentivized<br>
+Conversion: Submitted Lead<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$85.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[6]]></bannercount>
+        <emailcount><![CDATA[6]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Security,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2594]]></campaignid>
+        <name><![CDATA[ADT Home Protect Quote - Proof Required]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>1st page submit for home security</p>
+<p>
+<b>Traffic Allowed: </b>Email, Push Notifications<br>
+<b>Traffic NOT Allowed:</b> Incentive<br>
+<b>Conversion: </b>1st page submit<br>
+<b>Filters:</b> valid email<br>
+<b>Actions: </b>CPL<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$80.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[7]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Security,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3250]]></campaignid>
+        <name><![CDATA[BuyBodyDynamix]]></name>
+        <description><![CDATA[<p>Body Dynamix is a low-impact, joint-friendly workout for people aged 50 and 
+older and people who want to exercise but have mobility problems, injuries or 
+weight issues that make exercise difficult, painful or intimidating. Body 
+Dynamix removes all the barriers to working up a sweat and getting fit, by 
+offering a more pleasant workout experience!<br>
+<br>
+<b>Traffic Allowed:</b> Email, Display, Contextual, Search, Newsletter, Video, 
+Toolbar, Native, Social with the exception of Facebook.<br>
+<b>Traffic NOT Allowed:</b> Incentive <br>
+<b>Conversion:</b> CC Submit<br>
+<b>Filters :</b> No<br>
+<b>Actions:</b> CPS<br>
+<b>Country Allowed:</b> USA </p>]]></description>
+        <payout><![CDATA[$22.40]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[17]]></bannercount>
+        <emailcount><![CDATA[8]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Gym/Fitness,Health/Beauty,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[889]]></campaignid>
+        <name><![CDATA[Choice Roof Coverage]]></name>
+        <description><![CDATA[Never Pay for Covered Roof Repairs Again! 1st month free!<p><font size="2" face="Arial"><b>Traffic Allowed: </b>
+Email<b><br>
+Traffic NOT Allowed:</b>Incentivized<b><br>
+Conversion:</b>2nd page, lead submission<b><br>
+Actions: </b>CPL<br>
+Country Allowed:</b>US</font></p>]]></description>
+        <payout><![CDATA[$28.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[8]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Warranty]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3275]]></campaignid>
+        <name><![CDATA[Compare Medicare Quotes - Mon-Thurs drops only - Ask for Cap]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Compare Medicare Supplement Plans<br>
+<br>
+<b>Traffic Allowed: </b>Email, Newsletter, Push Notifications, Facebook, Native, Display<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>4th page submit<br>
+<b>Filters:</b> Age range is 65-80<br>
+States Accepted: Alabama, Arkansas, Arizona, Colorado, Florida, Georgia, Iowa, 
+Idaho<br>
+Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, 
+Missouri, Mississippi, Montana, North Carolina, North Dakota, Nebraska, New 
+Hampshire, New Jersey, New Mexico, Nevada, Ohio, Oklahoma, Oregon, Pennsylvania 
+Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, 
+Washington, Wisconsin, West Virginia<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed</b>: USA</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$16.75]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health,Insurance,Lead Gen,Medicare]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1934]]></campaignid>
+        <name><![CDATA[Defender Direct]]></name>
+        <description><![CDATA[<p>Home Security Special</p>
+<p><font size="2" face="Arial">Traffic Allowed: Email Only<br />
+Traffic NOT Allowed: Incentive<br />
+Conversion: 1st page submit<br />
+Actions: CPL<br />
+Country Allowed: US Only</font></p>]]></description>
+        <payout><![CDATA[$80.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[5]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Security,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2649]]></campaignid>
+        <name><![CDATA[Dollar Shave Club $5 Promo~Sensitive I/O Required]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>A GREAT SHAVE. DELIVERED. GET YOUR 1ST MONTH for $1<br>
+<br>
+<b>Traffic Allowed: </b>Email,<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>CC Submit. Cost to consumer $1-$9/mo<br>
+<b>Actions: </b>CPS<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$24.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[3]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3303]]></campaignid>
+        <name><![CDATA[Easy Auto Loan]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>EasyAutoLoan.com matches bad credit applicants with the best possible auto 
+loans on the Internet.<br>
+<br>
+<b>Traffic Allowed:</b> Email, Push Notifications, Display, Contextual, Social, Search.<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>2nd page submit<br>
+<b>Actions:</b> CPL<br>
+<b>Filters : </b>valid info<br>
+<b>Country Allowed:</b> US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$9.60]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[5]]></bannercount>
+        <emailcount><![CDATA[4]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Loan]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1909]]></campaignid>
+        <name><![CDATA[eCoverage Shorter Form - Ask For Cap]]></name>
+        <description><![CDATA[1st page submit - Life Insurance offer<p><font size="2" face="Arial"><b>
+Traffic Allowed: </b>Email<b><br>
+Traffic NOT Allowed: </b>INCENT<b><br>
+Conversion :</b>1st page<b>
+<br>
+Actions: </b>CPL<b><br>
+Country Allowed: </b>US only</font></p>]]></description>
+        <payout><![CDATA[$16.75]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[3]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Life]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2883]]></campaignid>
+        <name><![CDATA[EXCL - Window Survey]]></name>
+        <description><![CDATA[<p>Save on New Windows!<br>
+Take this survey to see if you qualify.</p>
+<p><font face="Arial" size="2">
+<b>Traffic Allowed: </b>Email<b> </b>only<b><br>
+Traffic NOT Allowed: </b>Incent <b><br>
+Conversion:</b> completed survey<b><br>
+Filters : </b>Homeowner<b><br>
+Actions: </b>CPL<b><br>
+Country Allowed: </b>US only</font></p>]]></description>
+        <payout><![CDATA[$28.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[8]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Improvement,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1553]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - eSolar Program - Mon-Fri drops only]]></name>
+        <description><![CDATA[<p>Solar Lead Gen</p>
+<p><font face="Arial"><b><font size="2">Traffic Allowed: </font> </b>
+<font size="2">Email only<b><br />
+Traffic NOT Allowed: </b>Incentive<b><br />
+Conversion:</b></font></font><font face="Arial" size="2"> 3rd page submit<b><br />
+Actions: </b>CPL<b><br />
+Country Allowed: </b>USA</font></p>]]></description>
+        <payout><![CDATA[$12.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[9]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Improvement,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2312]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Extended Warranty Now - Mon-Fri drops only - Ask For Cap]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Extended auto warranty leads.</p>
+<p>Monday-Friday drops only, preferably within call center hours. Call center 
+hours: Mon-Fri 9am-9pm; Sat: 10am-3pm.</p>
+<p>Traffic Allowed: Email, Push Notifications <br>
+Traffic NOT Allowed: Incent<br>
+Conversion: 1st page full form submit<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$16.50]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[5]]></bannercount>
+        <emailcount><![CDATA[45]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Auto,Insurance,Lead Gen,Warranty]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1277]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - HARP Approvals]]></name>
+        <description><![CDATA[Refi<p><font face="Arial"><b><font size="2">Traffic Allowed: </font> </b>
+<font size="2">Email, Display, Newsletter and Search<b><br />
+Traffic NOT Allowed: </b>Incentive<b><br />
+Conversion:</b> Full form submit<b><br />
+Actions: </b>CPL<b><br />
+Country Allowed: </b>US</font></font></p>
+]]></description>
+        <payout><![CDATA[$20.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[12]]></bannercount>
+        <emailcount><![CDATA[24]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2311]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Harp Connect - High Tier]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Same as offer 1842. Filters: Leads fire pixels for Good and Excellent credit 
+types only?<br>
+<br>
+Traffic Allowed: Email, Push Notifications, Display, Native, Social, Contextual Newsletter, Push Notifications<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: Full form lead<br>
+Actions: CPL<br>
+Country Allowed: US Only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$43.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[10]]></bannercount>
+        <emailcount><![CDATA[13]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3098]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - HARP Extended - Prime]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Home refinance</p>
+<p><b>Traffic Allowed:</b> Email, Push Notifications, Display, Social, Search, Contextual, Native, 
+Video, Blog, Mobile<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion: </b>Full form submit <br>
+<b>Filters:</b> - Pixel fires on Good & Excellent only<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed: </b>US Only</p>
+</body>
+</html>
+]]></description>
+        <payout><![CDATA[$43.20]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[11]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2857]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Harp Refi Quiz - Prime ]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Home Refinance</p>
+<p><b>Traffic Allowed:</b> Email, Push Notifications, Display, Social, Search, Contextual, Native, 
+Video, Blog, Mobile, Newsletter<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion: </b>Full form submit <br>
+<b>Filters:</b> - Pixel fires on Good & Excellent only<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed: </b>US Only</p>
+</body>
+</html>
+]]></description>
+        <payout><![CDATA[$43.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[4]]></bannercount>
+        <emailcount><![CDATA[7]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1793]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Health Exchange Quotes - Ask For Cap - No Fri-Sun Drops]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Lead Generation for users shopping for health insurance</p>
+<p>Traffic Allowed: Email,Push Notifications<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: Form Lead Submit<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$6.50]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[6]]></bannercount>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health,Insurance,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3390]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Identity IQ* Free Trial]]></name>
+        <description><![CDATA[<p>Credit Scores<br>
+from ALL 3 Bureaus <br>
+PLUS Identity Theft Protection!<b><br>
+<br>
+Traffic Allowed: </b>Email<b>, Display, Social, Search, Newsletter, Native, Incent<br>
+Traffic NOT Allowed: </b>Incentive<b><br>
+Conversion: </b>
+<span style="font-size:10pt;font-family:Arial;font-style:normal">CC submit and 
+Credit Bureau Authorization</span><br><b>Filters: </b>None<b><br>
+Actions: </b>CPS<b><br>
+Country Allowed: </b>USA only</p>]]></description>
+        <payout><![CDATA[$32.50]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[1]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Credit Score,Financial]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2771]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Marz Sleep Spray]]></name>
+        <description><![CDATA[<p>SleepSpray will help you sleep better or your money back!<br>
+<br>
+<b>Traffic Allowed :</b> Email, Display, Newsletter, Native<br>
+<b>Traffic NOT Allowed </b>: Incent<br>
+<b>Conversion :</b> CC Submit, Cost 2 Consumer $49.99<br>
+<b>Filters: </b>No<br>
+<b>Actions :</b> CPS<br>
+<b>Country Allowed :</b> US</p>]]></description>
+        <payout><![CDATA[$20.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[14]]></bannercount>
+        <emailcount><![CDATA[4]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[All traffic accepted]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1747]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Medicare Supplemental - Ask For Cap - M-Fri drops Only]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Lead Generation for users shopping for medicare supplemental insurance (age 
+64.5+)</p>
+<p>Traffic Allowed: Email,Push Notifications, Exit Traffic<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: 2nd page Form Lead Submit<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$21.50]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[12]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Medicare]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3231]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Military VA Flashlight]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Veteran / Active Duty Sale<br>
+<br>
+<b>Traffic Allowed:</b> Email, Display, Contextual, Social, Newsletter, Mobile, 
+Native, Video, Blog.<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion: </b>CC Submit<br>
+<b>Actions:</b> CPS<br>
+<b>Filters : </b>No<br>
+<b>Country Allowed:</b> USA</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$68.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1964]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Obamacare - Mon-Thurs Drops Only]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>ObamacareUSA.org: We've Got You Covered</p>
+<p>Traffic Allowed: Email, Display, Contextual, Social, Search, Push Notifications, Exit Traffic.<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: 2nd Page Submit<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$6.50]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[3]]></bannercount>
+        <emailcount><![CDATA[3]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health,Insurance,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3225]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Quick HARP Survey]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Take Advantage of Low HARP Refi Rates. Simple Application Process. Apply Now!<br>
+<br>
+<b>Traffic Allowed</b>: Email, Push Notifications<br>
+<b>Traffic NOT Allowed</b>: Incentive<br>
+<b>Conversion</b>: Submitted lead<br>
+<b>Filters: </b>$100k min bal<br>
+ave/good/excellent credit<br>
+refi only<br>
+<b>Actions</b>: CPL<br>
+<b>Country Allowed</b>: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$44.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[7]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2905]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Roofing Survey]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Save on a New Roof! Take this survey to see if you qualify.<br>
+<br>
+Traffic Allowed: Email<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: completed survey/submitted leads<br>
+Filters: Homeowner<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$11.25]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[1]]></bannercount>
+        <emailcount><![CDATA[9]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Improvement,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2855]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Slash My House Payments - Prime - V2 ]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Home Refinance</p>
+<p><b>Traffic Allowed:</b> Email, Push Notifications, Display, Social, Search, Contextual, Native, 
+Video, Blog, Mobile, Newsletter<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion: </b>Full form submit <br>
+<b>Filters:</b> Pixel fires on good & excellent only<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed: </b>US Only</p>
+</body>
+</html>
+]]></description>
+        <payout><![CDATA[$43.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[13]]></bannercount>
+        <emailcount><![CDATA[11]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2994]]></campaignid>
+        <name><![CDATA[EXCLUSIVE - Smartloans.net]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>GET THE CASH YOU NEED FAST PERSONAL LOANS FROM $100 - $35,000</p>
+<p><b>Traffic Allowed :</b> Email, Push Notifications, Display, Social, Search, Native, Push<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion:</b> Sold application<br>
+<b>Filters :</b> valid information
+<br>
+- 18+
+<br>
+- state restrictions: Connecticut, New Hampshire, Washington, and Vermont 
+<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed : </b>USA</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$56.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[4]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Loan]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1954]]></campaignid>
+        <name><![CDATA[Fidelity Life Insurance - Mon-Thurs drops only - Ask for Cap]]></name>
+        <description><![CDATA[ <body>
+ <div>
+ Fidelity Life Insurance</div> <br>
+
+ <div>
+ <strong>Traffic Allowed:</strong> Email, Display, Newsletter, Mobile.</div>
+ <div>
+ <strong>Traffic NOT Allowed: </strong>Incentivized</div>
+ <div>
+ <strong>Conversion</strong>: Full form submit & call center verification</div>
+ <div>
+ <strong>Actions:</strong> CPL</div>
+ <div>
+ <strong>Country Allowed</strong>: US</div>
+ </body>]]></description>
+        <payout><![CDATA[$108.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[1]]></bannercount>
+        <emailcount><![CDATA[32]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Life]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2899]]></campaignid>
+        <name><![CDATA[Get Keranique Sale]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Regrow Thicker, Longer, Stronger, Healthier Hair!
+No branded search, no fb, and no incent/survey traffic of any type<br>
+<br>
+Traffic Allowed: Email, Display, Newsletter<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: CC Submit<br>
+Filters: Just Approved CC<br>
+Actions: CPS<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$84.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[5]]></bannercount>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Haircare,Health/Beauty]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2707]]></campaignid>
+        <name><![CDATA[Indigo Card*~ - Sensitive I/O required - Proof Required]]></name>
+        <description><![CDATA[<p>Get Pre-Qualified and Go! With the Indigo?Platinum MasterCard? ? the card for 
+those with less than perfect credit!<br>
+<br>
+<b>Traffic Allowed:</b> Email, Display, Native, Incent, Push Notifications<br>
+<b>Conversion:</b> Approved application<br>
+<b>Actions:</b> CPA<br>
+<b>Country Allowed:</b> USA only</p>]]></description>
+        <payout><![CDATA[$33.12]]></payout>
+        <unit><![CDATA[per action]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[5]]></bannercount>
+        <emailcount><![CDATA[14]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Banking,Credit Card,Financial,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1238]]></campaignid>
+        <name><![CDATA[Life Line Screening - Proof Required - Ask for Cap]]></name>
+        <description><![CDATA[Life Line Screening has screened over 8 million people, using ultrasound 
+technology to reveal dangerous plaque build up or blockage, a major risk factor 
+for stroke and heart disease.<p><font face="Arial" size="2"><b>Traffic Allowed: </b>Email<b><br />
+Traffic NOT Allowed: </b>Incentive<b><br />
+Conversion: </b>1st page<b><br>
+Filters : </b>Valid Info<b><br />
+Actions: </b>CPL<b><br />
+Country Allowed: </b>USA</font></p>]]></description>
+        <payout><![CDATA[$17.60]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[5]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health/Beauty,Lead Gen,Retail/eCommerce]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2858]]></campaignid>
+        <name><![CDATA[Life Loans]]></name>
+        <description><![CDATA[<p>Persoanl loans from $100-$35,000<br>
+<br>
+<b>Traffic Allowed :</b> Email, Push Notifications, Display, Search, Newsletter, Push<br>
+<b>Traffic NOT Allowed </b>: Incent<br>
+<b>Conversion :</b> sold application<br>
+<b>Filters: </b>Valid information, 18+, state restrictions: Connecticut, New Hampshire, Washington, and Vermont <br>
+<b>Actions :</b> CPL<br>
+<b>Country Allowed :</b> US Only</p>]]></description>
+        <payout><![CDATA[$56.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[14]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Loan]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3021]]></campaignid>
+        <name><![CDATA[LifeInsurance.net]]></name>
+        <description><![CDATA[<p>We Find the Best Life Insurance Plans for You<br>
+<br>
+<b>Traffic Allowed: </b>Email, Push Notifications <br>
+<b>Traffic NOT Allowed: </b>Incent<br>
+<b>Conversion:</b> 1st pg submit<br>
+<b>Filters:</b> No<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed:</b> US<br>
+</p> <p>]]></description>
+        <payout><![CDATA[$24.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[12]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Life]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2251]]></campaignid>
+        <name><![CDATA[MaxLoan365]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Need Cash? Visit MaxLoan365.com and borrow up to $15,000 by tomorrow</p>
+<p>
+Traffic Allowed: Email, Push Notifications, Display, Contextual, Social<br>
+Traffic NOT Allowed: Incentivized<br>
+Conversion: 2nd page submit<br>
+Actions: CPL<br>
+Country Allowed: US<br>
+Filters: 18 years of age, checking account, valid email</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$44.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[5]]></bannercount>
+        <emailcount><![CDATA[5]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Loan]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2708]]></campaignid>
+        <name><![CDATA[Milestone Gold Card- Sensitive I/O Required - Proof Required]]></name>
+        <description><![CDATA[<p>Get Pre-Qualify With No Impact to your Credit Score!<br>
+<br>
+<b>Traffic Allowed:</b> Email, Push Notifications, Display, Native, Incent, Push Notifications<br>
+<b>Conversion:</b> Approved application<br>
+<b>Actions:</b> CPA<br>
+<b>Country Allowed:</b> USA only</p>]]></description>
+        <payout><![CDATA[$40.00]]></payout>
+        <unit><![CDATA[per action]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[6]]></bannercount>
+        <emailcount><![CDATA[11]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Banking,Credit Card,Financial,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2547]]></campaignid>
+        <name><![CDATA[Neutratone Trial]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>A comprehensive anti-aging regimen in one efficient kit<br>
+<br>
+<b>Traffic Allowed: </b>Email, Display, Social<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>CC Submit<br>
+<b>Filters:</b> valid CC<br>
+<b>Actions: </b>CPS<br>
+<b>Country Allowed: </b>US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$56.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health/Beauty,Skincare]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US UK AU]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2870]]></campaignid>
+        <name><![CDATA[Paint Zoom]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>The Ultimate Professional Painting Machine<br>
+<br>
+<b>Traffic Allowed: </b>Email, Social, Display, Organic seo/blogs<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion:</b> CC Submit<br>
+<b>Filters:</b> Valid CC Information<br>
+<b>Actions: </b>CPS<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$56.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[12]]></emailcount>
+        <textcount/>
+        <category><![CDATA[As Seen on TV,Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3245]]></campaignid>
+        <name><![CDATA[Perricone Free Shipping - Sensitive IO Required - Proof Required]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Start looking younger with an essential neck and face duo featuring Dr. 
+Perricones Cold Plasma Sub-D, designed to reduce the appearance of a double 
+chin while wrinkles in the neck d?collet? are tightened and refreshed.</p>
+<p>Traffic Allowed: Email<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: CC Submit<br>
+Filters : valid cc information<br>
+Actions: CPS<br>
+Country Allowed: US
+</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$60.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[2]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Health/Beauty,Skincare]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3130]]></campaignid>
+        <name><![CDATA[PickALender]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Get the Cash you need Fast! Personal Loans from $100-$35,000</p>
+<p><b>Traffic Allowed :</b> Email, Push Notifications, Display, Social, Push, Search, Newsletter, Native.<br>
+<b>Traffic NOT Allowed:</b> Incentivized<br>
+<b>Conversion:</b> Sold Application<br>
+<b>Filters :</b> valid information<br>
+-18+<br>
+-state restrictions: Connecticut, New Hampshire, Washington, and Vermont<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed : </b>US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$56.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[19]]></bannercount>
+        <emailcount><![CDATA[13]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Loan]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2]]></campaignid>
+        <name><![CDATA[Sorry Page]]></name>
+        <description/>
+        <payout><![CDATA[$0.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount/>
+        <textcount/>
+        <category><![CDATA[Adult games,Annuities,As Seen on TV,Auto,Auto Accident,Automotive,B2B,Background checks,Banking,Bankruptcy,Class Action,Computer,Credit Card,Credit Repair,Credit Score,Cruise,Debt,Dental,Diet,Direct School,Employment,Flights,Funeral,Game,Get a job,Gold,Gym/Fitness,Haircare,Health,Home,Home Improvement,Home Security,Home Services,Hotels,Insurance,Investment,Kids games,Life,Live Games,Loan,Mass Tort,Medical,Medicare,Mobile games,Mortgage,Moving,New Cars,PC Games,Personal Injury,Pest,Pets,Post a job,Religious,Rent to Own,Scholarship,Security,Senior,Shopping,Skincare,Survey / Market Research,Sweepstakes,Tax,Timeshare,TV/Internet/Cell,Used Cars,Warranty]]></category>
+        <geotargeting><![CDATA[All traffic accepted]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[1387]]></campaignid>
+        <name><![CDATA[Survey Junkie - Ask For Cap]]></name>
+        <description><![CDATA[<p>Get paid to take surveys</p>
+<p><font face="Arial"><b><font size="2">Traffic Allowed: </font> </b>
+<font size="2">Email<b>, </b>Display<b><br />
+Traffic NOT Allowed: </b>Incentive<b><br />
+Conversion:</b></font></font><font face="Arial" size="2"> 1st Page Email Sumit<b><br />
+Actions: </b>CPL<b><br />
+Country Allowed: </b>US Only</font></p>]]></description>
+        <payout><![CDATA[$1.20]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[22]]></bannercount>
+        <emailcount><![CDATA[8]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Lead Gen,Survey / Market Research]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2702]]></campaignid>
+        <name><![CDATA[Terminix Pests]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>?Save $50 on Pest Control Plan</p>
+<p>
+<b>Traffic Allowed: </b>Email<br>
+<b>Traffic NOT Allowed:</b> Incentive<br>
+<b>Conversion: </b>2nd page submit<b><br>
+Filters:</b> valid information<br>
+<b>Actions: </b>CPL<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$19.25]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[5]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Improvement,Home Services,Lead Gen,Pest]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2591]]></campaignid>
+        <name><![CDATA[The Zebra]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Auto Insurance<br>
+<br>
+<b>Traffic Allowed: </b>Email, Newsletter<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>2nd page submit</br>
+<b>Filters:</b> FLORIDA AND MICHICAN EXCLUDED<br>
+<b>Actions: </b>CPL<br>
+<b>Country Allowed: </b>US Only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$8.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[19]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Auto,Insurance,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2659]]></campaignid>
+        <name><![CDATA[Total Home Protection]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>PROTECT YOUR BUDGET & GET A HOME WARRANTY!</p>
+<p><b>Traffic Allowed:</b> Email<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion: </b>1st pg submit<br>
+<b>Actions:</b> CPL<br>
+<b>Country Allowed: </b>US Only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$31.50]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[1]]></bannercount>
+        <emailcount><![CDATA[17]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Warranty]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3373]]></campaignid>
+        <name><![CDATA[Trumpcare Medicare* - Mon-Thurs drops only - Ask for Cap]]></name>
+        <description><![CDATA[<p>Receive a Medicare insurance quote under the new proposed Trumpcare plans <b><br>
+<br>
+Traffic Allowed: </b>Email & News Letter only<b><br>
+Traffic NOT Allowed: </b>Incentive<b><br>
+Conversion: </b>2nd page submit<br><b>Filters: </b>Age & information validated 
+in real time<b><br>
+Actions: </b>CPL<b><br>
+Country Allowed: </b>USA only</p>]]></description>
+        <payout><![CDATA[$0.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[3]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Insurance,Lead Gen,Medicare]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2826]]></campaignid>
+        <name><![CDATA[Turbo Tiger Sweeper]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>As seen on TV Sweeper<br>
+<br>
+<b>Traffic Allowed: </b>Email, Social<br>
+<b>Traffic NOT Allowed:</b> Incent<br>
+<b>Conversion:</b> CC Submit<br>
+<b>Filters:</b> Valid Information<br>
+<b>Actions: </b>CPS<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$12.00]]></payout>
+        <unit><![CDATA[per sale]]></unit>
+        <daysleft/>
+        <bannercount><![CDATA[8]]></bannercount>
+        <emailcount><![CDATA[8]]></emailcount>
+        <textcount/>
+        <category><![CDATA[As Seen on TV,Retail/eCommerce,Shopping]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[2848]]></campaignid>
+        <name><![CDATA[VA Benefit Search Survey]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>VA benefit survey</p>
+<p><b>Traffic Allowed:</b> Email, Newsletter<br>
+<b>Traffic NOT Allowed: </b>Incent<br>
+<b>Conversion: </b>full form submit<br>
+<b>Filters:</b> - valid information<br>
+- pixel will only fire on good & excellent.<br>
+<b>Actions: </b>CPL<br>
+<b>Country Allowed: </b>US only</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$40.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[17]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Financial,Lead Gen,Mortgage]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+    <data>
+        <campaignid><![CDATA[3170]]></campaignid>
+        <name><![CDATA[Vivint]]></name>
+        <description><![CDATA[<html>
+<body>
+<p>Smart Home Security, smart Home Savings<br>
+<br>
+Traffic Allowed: Email<br>
+Traffic NOT Allowed: Incent<br>
+Conversion: 1st Page Submit<br>
+Filters: valid information<br>
+Actions: CPL<br>
+Country Allowed: US</p>
+</body>
+</html>]]></description>
+        <payout><![CDATA[$60.00]]></payout>
+        <unit><![CDATA[per lead]]></unit>
+        <daysleft/>
+        <bannercount/>
+        <emailcount><![CDATA[10]]></emailcount>
+        <textcount/>
+        <category><![CDATA[Home Security,Home Services,Lead Gen]]></category>
+        <geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting>
+    </data>
+</dataset>

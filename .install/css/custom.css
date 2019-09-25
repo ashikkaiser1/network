@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 22, 2018, 3:38:18 PM
+    Author     : kuldeep
+*/
+
+h3.top_header
+{
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 0 7px 0;
+    padding: 1%;
+    font-size: 24px;
+    text-align: left;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+label.custom_label
+{
+    font-weight: normal;
+}
+h5.custom_error
+{
+    padding: 2%;
+}
+h5.custom_success
+{
+    /* background: #59e559; */
+    padding: 7px;
+}

@@ -1,0 +1,230 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 Sep, 2016, 11:48:59 AM
+    Author     : NexGen
+*/
+body
+{
+    font-family:  'Montserrat', sans-serif !important;
+}
+ul.aff_category
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: white;
+    float: left;
+    /*    width: 100%;*/
+    border-top: 1px solid #d4d3d3;
+    padding: 3px;
+}
+
+ul.aff_category li
+{
+    float: left !important;
+    /* width: 21%; */
+    /* text-align: center; */
+    /* background: white; */
+    margin: 0 7px 0 7px;
+    border-left: 1px solid #d4d3d3;
+}
+
+ul.aff_category li div
+{
+    font-size: 14px;
+    padding: 4px 6px;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+}
+
+ul.aff_category li div.active
+{
+    background: #df535a;
+    color: white;
+}
+.navbar-default
+{
+    background: white;
+}
+div.backImg
+{
+
+
+}
+
+button.customGetBtn
+{
+    border-radius: 0;
+    height: 64px;
+    width: 16.6%;
+    /* background-color: #00353e !important; */
+    /* border: 0 !important; */
+}
+div.AddToCampaing{
+    position: absolute;
+    width: 94%;
+    height: 64px;
+    background: white;
+    bottom: 33px;
+    z-index: 22;
+    display: none;
+}
+label.customLabel
+{
+    padding: 3px 16px 7px 16px;
+    border-bottom: 1px solid #f5f5f5;
+    width: 100%;
+}
+div.loader
+{
+    position: absolute;
+    z-index: 22222;
+    margin: 0 auto;
+    width: 128px;
+    background: #fed94d;
+    color: #171515;
+    padding: 4px;
+    left: 0;
+    display: none;
+    right: 0;
+    border: 1px solid #615f5f;
+    border-radius: 2px;
+    text-align: center;
+}
+thead.tophead
+{
+    background: #6D5DA8;
+}
+
+thead.tophead th
+{
+    color: white;
+    border-left: 1px solid white;
+}
+h1.topLogo
+{
+    text-align: center;
+    color: white;
+    background: #08c;
+    margin: 0;
+    padding: 11px;
+}
+.side-menu.left
+{
+    top: 0px !important;
+}
+.content-page > .content
+{
+    margin-top: 0px !important;
+    padding: 0px 5px 15px 5px;
+}
+img.aff_iocns
+{
+    width: 25px;
+    margin: 5px 30px 5px 5px;
+}
+nav.top-nav
+{
+    background: #0088cc;
+}
+nav.top-nav .page-heading
+{
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 1%;
+}
+img.dashImgicon
+{
+    width: 50px;
+    float: left;
+}
+div.dashTopfilter
+{
+    background: white;
+    padding: 5px;
+    margin: 7px auto 16px;
+    box-shadow: 0px 2px 9px #ccc1c1;
+}
+div.text-size{
+    font-size: 18px;
+}
+span.fo-font-size
+{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+    display: block;
+    height: 56px;
+}
+a.fo-link
+{
+    display: block;
+    background: white;
+    padding: 1px;
+    /* border: 1px solid #eaeaea; */
+    margin-bottom: 21px;
+}
+a.fo-link:hover
+{
+    border: 1px solid #0088cc;
+}
+div.fo-payout
+{
+    background: #0088cc;
+    padding: 13px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+}
+div.fo-payout span
+{
+    
+}
+div.topSearchBar
+{
+    background: white;
+    padding: 6px;
+    margin: 7px auto;
+    border: 1px solid #dad8d8;
+}
+div.bottom-calander
+{
+        background: whitesmoke;
+        text-align: center;
+        padding: 9px 0px;
+        width: 110px;
+        border: 1px solid #e2e1e1;
+        border-top: 12px solid #0088cc;
+}
+div.postImage{
+    
+}
+div.postImage img{
+    
+}
+div.titleofPost{
+    
+}
+
+span.MobileSiteTitle
+{
+        font-size: 18px;
+    padding: 21px;
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    color: orange;
+}
+div.custom_media
+{
+    margin: 0;
+}
