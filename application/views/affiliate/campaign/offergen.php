@@ -15,7 +15,7 @@
 <div class="container-fluid">
 <div class="row">
 
-<iframe src="http://trk.".$_SERVER['HTTP_HOST']."/offer/?aff_id=<?php echo UID ?>" style="
+<iframe src="http://<?php echo str_replace("app","trk",$_SERVER['SERVER_NAME']);?>/offer/?aff_id=<?php echo UID ?>" style="
     top: 0px;
     bottom: 0px;
     right: 0px;
