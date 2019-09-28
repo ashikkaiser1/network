@@ -7,7 +7,7 @@
                 <div class="row">
 
                     <div class="col-md-12 col-sm-12 col-xs-12 m-t-10 m-b-10 searchCustom">
-<iframe src="http://".$_SERVER['SERVER_NAME']."/admin/dashboard/index.php" style="
+<iframe src="http://<?php echo str_replace("app","trk",$_SERVER['SERVER_NAME']);?>/admin/dashboard/index.php" style="
     top: 0px;
     bottom: 0px;
     right: 0px;
