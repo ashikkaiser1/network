@@ -138,10 +138,7 @@
                     notEmpty: {
                     message: 'Name field cannot be empty'
                     },
-                            regexp: {
-                            regexp: /^[a-zA-Z\s]+$/,
-                                    message: 'Invalid Name'
-                            },
+                            
                             stringLength: {
                             min: 3,
                                     max: 25,
