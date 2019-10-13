@@ -209,7 +209,7 @@
 
                                                 <a ng-if="user.UTID < 4" title="View"  href="<?php echo SITEURL . "admin/users/ViewUser/" ?>{{user.uid}}" > {{user.company}}</a>
 
-                                                <a ng-if="user.UTID >= 4" title="View"  href="<?php echo SITEURL . "admin/employee/ViewEmployee/" ?>{{user.uid}}" >{{user.company}}</a>
+                                                <a ng-if="user.UTID >= 4" title="View"  href="<?php echo SITEURL . "admin/employee/ViewEmployee/" ?>{{user.uid}}" >{{user.name}}</a>
 
 
                                             </td>
